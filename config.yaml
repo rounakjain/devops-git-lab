@@ -1,5 +1,6 @@
 filters:
   - name: statusa
+  - name: statusb
     values: [active, inactive]
   - name: priority
     values: [high, medium, low]
